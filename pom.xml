@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.devhq</groupId>
     <artifactId>simple-dynamic-patch</artifactId>
@@ -10,7 +8,11 @@
     <properties>
         <jdk.version>1.8</jdk.version>
     </properties>
-
+    <parent>
+        <groupId>org.sonatype.oss</groupId>
+        <artifactId>oss-parent</artifactId>
+        <version>9</version>
+    </parent>
     <dependencies>
         <dependency>
             <groupId>org.apache.commons</groupId>
@@ -27,6 +29,7 @@
     <build>
         <plugins>
             <!-- Set a JDK compiler level -->
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -36,6 +39,16 @@
                     <target>${jdk.version}</target>
                 </configuration>
             </plugin>
+
+
         </plugins>
     </build>
+
+    <scm>
+    <connection>scm:git:https://github.com/oktayalizada/simple-dynamic-patch</connection>
+    <developerConnection>scm:git:git@github.com:oktayalizada/simple-dynamic-patch.git</developerConnection>
+    <url>https://github.com/oktayalizada/simple-dynamic-patch</url>
+    <tag>HEAD</tag>
+    </scm>
+
 </project>
