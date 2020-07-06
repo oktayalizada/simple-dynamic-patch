@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52e83282-c00d-43c8-87c3-66d1ddfa05e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/patchlibrary/PatchMap.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/patchlibrary/PatchMap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/patchlibrary/class-use/PatchMap.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/patchlibrary/class-use/PatchMap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/patchlibrary/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/patchlibrary/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/patchlibrary/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/patchlibrary/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/patchlibrary/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/patchlibrary/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/patchlibrary/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/patchlibrary/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/.index" beforeDir="false" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/io/github/oktayalizada/simple-dynamic-patch/1.2.0/simple-dynamic-patch-1.2.0-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/io/github/oktayalizada/simple-dynamic-patch/1.2.0/simple-dynamic-patch-1.2.0-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/io/github/oktayalizada/simple-dynamic-patch/1.2.0/simple-dynamic-patch-1.2.0-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/io/github/oktayalizada/simple-dynamic-patch/1.2.0/simple-dynamic-patch-1.2.0-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/io/github/oktayalizada/simple-dynamic-patch/1.2.0/simple-dynamic-patch-1.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/io/github/oktayalizada/simple-dynamic-patch/1.2.0/simple-dynamic-patch-1.2.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/io/github/oktayalizada/simple-dynamic-patch/1.2.0/simple-dynamic-patch-1.2.0.pom" beforeDir="false" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/io/github/oktayalizada/simple-dynamic-patch/1.2.0/simple-dynamic-patch-1.2.0.pom" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/io/github/oktayalizada/simple-dynamic-patch/maven-metadata-nexus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/cc2f2dbb559143/io/github/oktayalizada/simple-dynamic-patch/maven-metadata-nexus.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/simple-dynamic-patch-1.2.0-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/simple-dynamic-patch-1.2.0-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/simple-dynamic-patch-1.2.0-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/simple-dynamic-patch-1.2.0-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/simple-dynamic-patch-1.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/simple-dynamic-patch-1.2.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/patchlibrary.PatchMapTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/patchlibrary.PatchMapTest.txt" afterDir="false" />
-    </list>
+    <list default="true" id="52e83282-c00d-43c8-87c3-66d1ddfa05e3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594058447579</updated>
-      <workItem from="1594058448812" duration="2056000" />
+      <workItem from="1594058448812" duration="2178000" />
     </task>
     <servers />
   </component>
